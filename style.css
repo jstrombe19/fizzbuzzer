@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(54, 69, 69);
+}
+
+h1,
+h3 {
+  color: aqua;
+}
+
+button {
+  margin-left: 10px;
+}
